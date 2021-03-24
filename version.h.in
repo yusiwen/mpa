@@ -1,0 +1,14 @@
+#ifndef __MPA_VERSION_H__
+#define __MPA_VERSION_H__
+
+#define MPA_VERSION_MAJOR @VERSION_MAJOR@
+#define MPA_VERSION_MINOR @VERSION_MINOR@
+#define MPA_VERSION_PATCH @VERSION_PATCH@
+#define MPA_VERSION_META "@VERSION_META@"
+#define MPA_VERSION_BRANCH "@VERSION_BRANCH@"
+#define MPA_VERSION_REV "@VERSION_REV@"
+#define MPA_BUILD_DATE "@BUILD_DATE@"
+#define MPA_BUILD_TIME "@BUILD_TIME@"
+
+#endif
+/* vim: set ts=2 sw=2 sts=2 tw=0 expandtab : */
